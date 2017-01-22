@@ -1,9 +1,10 @@
 # CS50_PSET_1
-Harvard CS50x online course
+Harvard CS50x online course: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
-Week 1: Learning about basics of C
+##Week 1
+Learning about basics of C
 
-Problem Set 1: 
+##Problem Set 1
 - Create first "hello world" program in hello.c
 - Calculate water consumption in water.c
 - Recreate/print Mario's pyramids in mario.c
