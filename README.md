@@ -1,8 +1,8 @@
 # CS50_PSET_1
 Harvard CS50x online course: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
-##Week 1
-Learning about basics of C
+##Week 1 (2016)
+Learned about the basics of C
 
 ##Problem Set 1
 - Create first "hello world" program in hello.c
