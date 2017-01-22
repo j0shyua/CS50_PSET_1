@@ -8,3 +8,5 @@ Problem Set 1:
 - Calculate water consumption in water.c
 - Recreate/print Mario's pyramids in mario.c
 - Give users specific number of coins in greedy.c
+
+Note - All files require "cs50.h" to compile and run correctly.
